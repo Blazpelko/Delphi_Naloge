@@ -57,6 +57,7 @@ var
     if  tab.Count=1 then
     begin
       link:=FindUrl(tab[0],1);
+      Memo1.Lines.Add(link);
       end
     else
     begin
