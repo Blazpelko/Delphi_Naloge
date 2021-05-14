@@ -1,0 +1,44 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  ClientHeight = 662
+  ClientWidth = 606
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 13
+  object Memo1: TMemo
+    Left = 8
+    Top = 6
+    Width = 497
+    Height = 648
+    Lines.Strings = (
+      'Memo1')
+    ScrollBars = ssBoth
+    TabOrder = 0
+  end
+  object Button3: TButton
+    Left = 511
+    Top = 8
+    Width = 86
+    Height = 41
+    Caption = 'Nalo'#382'i datoteko'
+    TabOrder = 1
+    OnClick = Button3Click
+  end
+  object XMLDocument1: TXMLDocument
+    Left = 520
+    Top = 624
+  end
+  object OpenDialog1: TOpenDialog
+    FileName = 'C:\Users\pelko\Programiranje\Delphi\TestnaNaloga1.xml'
+    Left = 560
+    Top = 624
+  end
+end

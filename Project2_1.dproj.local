@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/05/07 12:24:39.000.674,=C:\Users\pelko\Programiranje\Delphi\Unit1.pas</Transaction>
+    <Transaction>2021/05/07 12:25:16.000.866,C:\Users\pelko\Programiranje\Delphi\Project2.dfm=C:\Users\pelko\Programiranje\Delphi\Unit1.dfm</Transaction>
+    <Transaction>2021/05/07 12:25:16.000.866,C:\Users\pelko\Programiranje\Delphi\Project2.pas=C:\Users\pelko\Programiranje\Delphi\Unit1.pas</Transaction>
+    <Transaction>2021/05/07 12:57:47.000.199,C:\Users\pelko\Programiranje\Delphi\Project2_1.dproj=C:\Users\pelko\Programiranje\Delphi\Project2.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
